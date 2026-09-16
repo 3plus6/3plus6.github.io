@@ -1,4 +1,4 @@
-const CACHE_NAME = "taskkk-shell-v11";
+const CACHE_NAME = "taskkk-shell-v12";
 const APP_SHELL = [
   "/",
   "/manifest.webmanifest",
